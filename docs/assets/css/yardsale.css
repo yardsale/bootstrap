@@ -204,13 +204,13 @@ label {
   color: #463a31;
   font-size: 14px;
   text-shadow: 0 1px 0 #FFFFFF;
-  }
+}
 label:focus {
   color: #000;
-  }
+}
 input.search-form {
   border-radius: 50px;
-  }
+}
 
 /* =========================================================
 ====================== BASE CSS PAGE =======================
