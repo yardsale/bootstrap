@@ -611,7 +611,10 @@ a.btn-warning:hover {
 	color: #54432f;
 	text-shadow: 0 1px 0 rgba(255, 255, 255, 1);
 	}
-	
+select.span1, select.span2, select.span3 {
+	border: 1px solid #7b7063;
+	color: #736b62;
+	}
 select#select01 {
 	border: 1px solid #7b7063;
 	color: #736b62;
