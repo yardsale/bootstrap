@@ -295,9 +295,9 @@ p.lead {
 /* ================== SIDE BOX THING ================= */
 .well {
     background: rgba(112, 95, 75, 0.04);
-    border: 1px solid #7b7063;
+    border: 1px solid #897f72;
     border-radius: 10px;
-    box-shadow: 0 1px 0 rgba(256, 256, 256, 0.5), 0 1px 1px rgba(68, 49, 33, 0.4) inset;
+    box-shadow: 0 1px 0 rgba(256, 256, 256, 0.5), 0 1px 1px rgba(0, 0, 0, 0.2) inset;
     margin-bottom: 20px;
     padding: 19px;
 }
